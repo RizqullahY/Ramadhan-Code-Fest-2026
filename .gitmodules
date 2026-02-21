@@ -1,0 +1,3 @@
+[submodule "scrape-result-reader-mobile-app"]
+	path = scrape-result-reader-mobile-app
+	url = https://github.com/RizqullahY/scrape-result-reader-mobile-app
